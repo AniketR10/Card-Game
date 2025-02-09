@@ -1,2 +1,6 @@
 # Card-Game
-![Demo Gameplay](https://github.com/user-attachments/assets/7281c3e8-53f1-4929-981e-43c71cddae4d)
+
+##Demo Gameplay
+
+https://github.com/user-attachments/assets/8598200b-369f-4643-a81b-a04d59816044
+
